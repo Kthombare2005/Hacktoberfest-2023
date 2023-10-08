@@ -1,12 +1,5 @@
 # 🎃Hacktoberfest_starter_2k23 ➡ First Pull Request 🌟🌟🌟
 
-## Contributors 👩‍💻👨‍💻
-<div align="center">
-  <a href="https://github.com/s-bhalode/Hacktoberfest-2023/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=s-bhalode/Hacktoberfest-2023" />
-  </a>
-</div>
-
 ## Contribution Rules 👇👇
 🛑 You are allowed to make pull requests that break the rules. We just merge it.<br/>
 🛑 Do NOT add any build steps e.g npm install (keep this as a simple static site).<br/>
